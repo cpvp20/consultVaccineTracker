@@ -1,15 +1,16 @@
-# consultVaccineTracker
+# covidTracker
 
 ## Micro Service Description
-This service is responsible for fetching all the vaccine related information from around the world from various sources.
+This service is responsible for fetching all the covid related information and updates from around the world.
 
 ## Functional Requirements
-* User can see vaccine information from any country.
-* User can see vaccine information related to his/her state and country.
-* User can search for existing vaccine data.
-* Sources include the bloomberg vaccine tracker.
+* User can see information for each continent.
+* User can see information for each country.
+* User can see global information.
 
 ## Non-Functional Requirements
-* Data is presented in an organized manner, according to various categories, like country, or vaccine type.
+* Data is presented in an organized manner, according to various categories.
+* Data comes from NOVELCOVID API
+* Data is updated every 10 minutes.
 
 ## Deployment URL
