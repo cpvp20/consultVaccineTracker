@@ -14,3 +14,5 @@ This service is responsible for fetching all the covid related information and u
 * Data is updated every 10 minutes.
 
 ## Deployment URL
+http://covidtracker-quick-lynx-yk.mybluemix.net/
+
